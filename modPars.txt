@@ -1,4 +1,4 @@
 consumptionRandomComponentSD		0
-randomComponentOfPlannedProduction		0.1
-maxDemandRelativeRandomShock		0
+randomComponentOfPlannedProduction		0
+maxDemandRelativeRandomShock		0.15
 productionCorrectionPsi			0
