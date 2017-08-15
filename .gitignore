@@ -1,5 +1,6 @@
 *.pyc
 workers.txt
+entrepreneurs.txt
 schedule.txt
 *.csv
 .ipynb_checkpoints/readingCVSoutput-checkpoint.ipynb
