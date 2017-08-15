@@ -1,1 +1,0 @@
-maxAcceptableOligopolistRelativeIncrement 0.40
