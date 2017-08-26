@@ -714,6 +714,9 @@ class Agent(SuperAgent):
             self.agType = "workers"
             self.employed = False
 
+            # recording the exit as entrepreneur
+            print ("E. exit at t = ",common.cycle)
+
     # work troubles
     def workTroubles(self):
 
